@@ -1,0 +1,13 @@
+/* Add this to the end of your styles.css file */
+
+#about {
+    padding: 20px;
+}
+
+#about h2, #about h3 {
+    color: #1E90FF; /* Dodger Blue */
+}
+
+#about p {
+    line-height: 1.6;
+}

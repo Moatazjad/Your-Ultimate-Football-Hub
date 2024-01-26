@@ -1,0 +1,43 @@
+h1{
+    color: #000080;
+
+}
+
+h2{
+    color: goldenrod;
+
+}
+
+h3{
+    color: goldenrod;
+
+}
+
+h4{
+    color: goldenrod;
+
+}
+
+p{
+    color: black;
+}
+
+a{
+    color: #000080;
+}
+
+body{
+    background-color: #696969;
+}
+a:active{
+    color: #000080;
+}
+a:hover{
+    color: black;
+}
+p::after{
+    content: "enjoy:)";
+}
+div{
+    float: left;
+}
